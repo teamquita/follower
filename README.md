@@ -8,3 +8,4 @@ A full-stack website by Zach Quita and Erwin Quita.
 - [ ] Identify project scope and goals
 - [ ] Learn scrum
 - [ ] Learn GIT
+- [ ] Learn Jira
